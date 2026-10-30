@@ -49,4 +49,4 @@ PowerBI-Dashboard-Projects/
 
 **Ramya**
 
-Data Analytics Trainee
+Data Analytics Program
