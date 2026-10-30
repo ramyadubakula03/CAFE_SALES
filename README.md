@@ -28,7 +28,6 @@ PowerBI-Dashboard-Projects/
 │
 ├── README.md
 ├── CAFE_SALES.pbix
-├── Dashboard_1_Recording.mp4
 ```
 
 ## 🎯 Key Learnings
