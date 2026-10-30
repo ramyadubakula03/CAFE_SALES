@@ -21,10 +21,6 @@ The objective of these dashboards is to analyze data, identify meaningful patter
 - Data Cleaning and Transformation
 - Data Visualization
 
-## 🎥 Screen Recordings
-
-Screen recordings demonstrating both dashboards are included in this repository.
-
 ## 📁 Repository Structure
 
 ```text
