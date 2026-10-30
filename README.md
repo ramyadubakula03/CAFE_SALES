@@ -30,7 +30,6 @@ PowerBI-Dashboard-Projects/
 ├── Dashboard_1.pbix
 ├── Dashboard_2.pbix
 ├── Dashboard_1_Recording.mp4
-└── Dashboard_2_Recording.mp4
 ```
 
 ## 🎯 Key Learnings
