@@ -27,8 +27,7 @@ The objective of these dashboards is to analyze data, identify meaningful patter
 PowerBI-Dashboard-Projects/
 │
 ├── README.md
-├── Dashboard_1.pbix
-├── Dashboard_2.pbix
+├── CAFE_SALES.pbix
 ├── Dashboard_1_Recording.mp4
 ```
 
