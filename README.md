@@ -44,28 +44,6 @@ The following data preprocessing activities were performed:
 - Creating additional features where required.
 - Preparing the dataset for exploratory analysis.
 
-## 📊 Exploratory Data Analysis (EDA)
-
-### 1. Univariate Analysis
-- Distribution of product sales.
-- Frequency of payment methods.
-- Quantity distribution.
-- Revenue distribution.
-- Analysis of categorical and numerical columns.
-
-### 2. Bivariate Analysis
-- Product vs Total Sales.
-- Payment Method vs Total Spent.
-- Quantity vs Total Spent.
-- Transaction Date vs Sales.
-- Location vs Revenue.
-
-### 3. Multivariate Analysis
-- Product, Quantity, and Revenue comparison.
-- Payment Method and Location analysis.
-- Sales trends across different time periods.
-- Relationships between multiple numerical features.
-
 ## 📈 Key Business Analysis Areas
 
 - Best-selling products.
