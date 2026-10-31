@@ -107,6 +107,7 @@ Cafe-Sales-Analysis/
 ├── README.md
 ├── Dataset/
 │   └── cafe_sales.csv
+|__ Cafe_Sales_Dashboard_Recording
 ```
 
 ## 🎯 Key Learnings
