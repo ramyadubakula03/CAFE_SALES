@@ -55,16 +55,6 @@ The following data preprocessing activities were performed:
 - Product demand and quantity analysis.
 - Peak business periods.
 
-## 🛠️ Tools & Technologies
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-- Exploratory Data Analysis (EDA)
-
 ## 💡 Business Benefits
 
 This analysis can help cafe businesses:
