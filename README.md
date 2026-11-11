@@ -73,8 +73,7 @@ This analysis can help cafe businesses:
 Cafe-Sales-Analysis/
 │
 ├── README.md
-├── Dataset/
-│   └── cafe_sales.csv
+|
 └── Recordings/
     └── CAFE_SALES_DASHBOARD_Demo.mp4
 ```
